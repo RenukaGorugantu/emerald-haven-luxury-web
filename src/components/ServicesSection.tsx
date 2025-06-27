@@ -1,4 +1,5 @@
 
+import React from 'react';
 import { Utensils, Waves, Dumbbell, Car, Wifi, Coffee, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useState } from 'react';
 
